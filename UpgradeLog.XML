@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="lock">
+</Property><Property Name="Solution File" Value="F:\DSSoft\C#\Windows forms\lock\lock.sln">
+</Property><Property Name="Date" Value="25 декабря 2007 г.">
+</Property><Property Name="Time" Value="10:23">
+</Property></Properties><Event ErrorLevel="0" Project="lock" Source="lock\lock.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="lock" Source="lock\lock.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="lock.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="lock.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="lock" Source="lock\lock.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\lock.Form1.resources
+obj\Debug\lock.Properties.Resources.resources
+obj\Debug\lock.csproj.GenerateResource.Cache
+bin\Debug\lock.exe
+bin\Debug\lock.pdb
+obj\Debug\lock.exe
+obj\Debug\lock.pdb
